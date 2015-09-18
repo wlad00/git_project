@@ -5,3 +5,5 @@ index1 - первое состояние
 Breanch master!
 
 echo "new commit to master";
+
+echo "Подарок для гит-хаба";

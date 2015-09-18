@@ -7,3 +7,5 @@ dfghdgh
 dghdghd
 
 dfgdsfgdfgdsfgdfgdsfgdfgdsfgdfgdsfgdfgdsfgdfgdsfg
+
+Подарок для ГХ в файл ЛИЦЕНС
